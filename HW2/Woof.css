@@ -1,0 +1,19 @@
+html {
+    background-color: peachpuff;
+    font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в
+    высоту */
+     font-family: 'Raleway', sans-serif;
+}
+h1, h4, h5 {
+    color: darkblue;
+}
+h3 {
+    color: purple;
+}
+p {
+    color: darkred;
+    font-size: 16px;
+}
+li {
+    color: yellowgreen;
+}
